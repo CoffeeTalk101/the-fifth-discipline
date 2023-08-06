@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">0cbc529a-5a46-4e56-9d99-ecc3a3ec4a9c</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0cbc529a-5a46-4e56-9d99-ecc3a3ec4a9c</dc:identifier>
+        <dc:title>The Fifth Discipline</dc:title>
+        <dc:creator opf:file-as="Senge, Peter M." opf:role="aut">Peter M. Senge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-14T17:00:00+00:00</dc:date>
+        <dc:publisher>Crown Publishing Group</dc:publisher>
+        <dc:rights>Copyright © 2006 by Peter M. Senge</dc:rights>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

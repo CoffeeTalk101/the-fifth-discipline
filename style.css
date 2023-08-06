@@ -1,0 +1,435 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "Charis";
+    font-style: normal;
+    font-weight: normal;
+    src: url(OEBPS/fonts/CharisSILR.ttf)
+    }
+@font-face {
+    font-family: "Charis";
+    font-style: normal;
+    font-weight: bold;
+    src: url(OEBPS/fonts/CharisSILB.ttf)
+    }
+@font-face {
+    font-family: "Charis";
+    font-style: italic;
+    font-weight: normal;
+    src: url(OEBPS/fonts/CharisSILI.ttf)
+    }
+@font-face {
+    font-family: "Charis";
+    font-style: italic;
+    font-weight: bold;
+    src: url(OEBPS/fonts/CharisSILBI.ttf)
+    }
+
+.appendix {
+    display: block;
+    font-size: 0.83333em;
+    text-align: justify
+    }
+.arabic {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.arabic1 {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: justify
+    }
+.block {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 1em;
+    margin-left: 3em;
+    margin-right: 3em;
+    margin-top: 1em
+    }
+.block1 {
+    display: block;
+    font-size: 0.83333em;
+    margin-bottom: 1em;
+    margin-left: 3em;
+    margin-right: 3em;
+    margin-top: 1em
+    }
+.bullet {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: disc
+    }
+.calibre {
+    background-color: #FFF;
+    display: block;
+    font-family: Charis, "Times New Roman", Verdana, Arial, Sans-serif;
+    font-size: 1em;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center
+    }
+.calibre1 {
+    height: auto;
+    width: auto
+    }
+.calibre2 {
+    display: block;
+    font-family: Charis, "Times New Roman", Verdana, Arial, Sans-serif;
+    font-size: 1em;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre3 {
+    display: block
+    }
+.calibre4 {
+    font-style: italic
+    }
+.calibre5 {
+    display: list-item
+    }
+.calibre6 {
+    line-height: 1.2
+    }
+.calibre7 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre8 {
+    font-weight: bold
+    }
+.calibre9 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    font-size: 0.625em;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.calibre10 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre11 {
+    display: table-cell;
+    padding-bottom: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.5em;
+    text-align: left;
+    vertical-align: inherit
+    }
+.calibre12 {
+    display: block;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.3em
+    }
+.calibre13 {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em
+    }
+.calibre14 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.calibre15 {
+    display: block;
+    page-break-after: always
+    }
+.caption {
+    display: block;
+    font-size: 0.75em;
+    font-style: italic;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.3em;
+    text-align: justify
+    }
+.center {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.chapter {
+    display: block;
+    font-size: 1.55em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2em;
+    text-align: center
+    }
+.chapter1 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2em;
+    text-align: center
+    }
+.copyright {
+    display: block;
+    font-size: 0.83333em;
+    margin-top: 4em;
+    text-align: center
+    }
+.dedication {
+    display: block;
+    font-size: 0.83333em;
+    margin-top: 4em
+    }
+.dropcaps {
+    float: left;
+    font-size: 50px;
+    line-height: 45px;
+    margin-right: -1em;
+    margin-top: -0.07em;
+    padding-top: 2px
+    }
+.extract {
+    display: block;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2em;
+    text-align: justify
+    }
+.figure {
+    display: block;
+    margin-bottom: 2em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2em;
+    text-align: center
+    }
+.footnote {
+    display: block;
+    margin-bottom: 0.3em;
+    margin-left: 2 em;
+    margin-right: 0;
+    margin-top: 0.3em;
+    text-align: justify
+    }
+.frac {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: 4px
+    }
+.frac1 {
+    font-size: 0.58065em;
+    line-height: normal;
+    vertical-align: 4px
+    }
+.frac2 {
+    font-size: 1em;
+    line-height: 1.2;
+    vertical-align: sub
+    }
+.hanging {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.3em;
+    margin-left: 2.5em;
+    margin-right: 0;
+    margin-top: 0.5em;
+    text-indent: -1em
+    }
+.hanging1 {
+    display: block;
+    font-size: 1.2em;
+    margin-bottom: 0.3em;
+    margin-left: 2.5em;
+    margin-right: 0;
+    margin-top: 0.5em;
+    text-indent: -1em
+    }
+.hlink {
+    text-decoration: none
+    }
+.indent {
+    display: block;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.3em;
+    text-align: justify;
+    text-indent: 1em
+    }
+.left {
+    display: table-cell;
+    font-weight: bold;
+    padding-bottom: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.5em;
+    text-align: left;
+    vertical-align: inherit
+    }
+.nonindent {
+    display: block;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.3em;
+    text-align: justify
+    }
+.part {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 4em;
+    text-align: center
+    }
+.preface {
+    display: block;
+    font-size: 0.83333em;
+    margin-left: 2em;
+    margin-right: 2em;
+    text-align: justify
+    }
+.right {
+    display: block;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.3em;
+    text-align: right
+    }
+.section {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 4em;
+    text-align: center
+    }
+.section1 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 4em;
+    text-align: center
+    }
+.section2 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 4em;
+    text-align: left
+    }
+.small {
+    font-size: 0.625em
+    }
+.small1 {
+    font-size: 0.75em
+    }
+.textbox {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 2px;
+    display: block;
+    line-height: 1.7em;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    text-align: center
+    }
+.textbox1 {
+    display: block;
+    margin-bottom: 0.3em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 0.3em;
+    text-align: justify
+    }
+.textbox2 {
+    display: block;
+    margin-bottom: 0.3em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 0.3em;
+    text-align: justify;
+    text-indent: 1em
+    }
+.titlepage {
+    display: block;
+    margin-left: -0.4em;
+    margin-top: 1.2em
+    }
+.toc {
+    display: block;
+    font-size: 1em;
+    text-align: center
+    }
+.toc1 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em
+    }
+
